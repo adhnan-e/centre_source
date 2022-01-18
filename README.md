@@ -1,16 +1,17 @@
-# centre_source
+<p align='center'> <img alt='Furniture logo' height='175px' width='175px' src='.assets/Icons/appIcon.png'/> </p>
 
-A new Flutter project.
+<h1 align='center'> Furniture </h1>
 
-## Getting Started
+<p align='center'>
+<a href='https://github.com/urmilshroff/muze/stargazers'> <img alt='Stars' src='https://img.shields.io/github/stars/urmilshroff/muze'> </a>
+<a href='https://github.com/urmilshroff/muze/issues'> <img alt='Issues' src='https://img.shields.io/github/issues/urmilshroff/muze'> </a>
+<a href='https://github.com/urmilshroff/muze/actions?query=workflow%3ABuild'> <img alt='Build' src='https://img.shields.io/github/workflow/status/urmilshroff/muze/Build'> </a>
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<a href="https://bit.ly/3FRSCPn" class="button">Click here to Download signed apk</a>
+<input class="button" type="submit">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- <p align='center'> <img alt='Muze prototype' height='400px' width='800px' src='./assets/branding/prototype.png'/> </p> -->
+
